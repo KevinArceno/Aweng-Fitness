@@ -4,6 +4,8 @@ git clone https://github.com/KevinArceno/Aweng-Fitness.git
 
 
 cd aweng-fitness
+
+
 npm install lucide-react @radix-ui/react-dialog @radix-ui/react-label @radix-ui/react-slot @radix-ui/react-tabs
 
 
@@ -12,7 +14,11 @@ npm install lucide-react @radix-ui/react-dialog @radix-ui/react-label @radix-ui/
 
 
 npx shadcn@latest init
+
+
 npx shadcn@latest add button card dialog input label tabs textarea toast
+
+
 mkdir -p components
 
 
@@ -21,6 +27,8 @@ mkdir -p components
 
 
 npx shadcn@latest init
+
+
 npx shadcn@latest add button card dialog input label tabs textarea toast
 
 
